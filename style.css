@@ -20,11 +20,11 @@ body{
     margin-top: 20px;
 }
 .tekan{
-    color: rgb(6, 190, 129);
-    border: 1px solid rgb(54, 194, 147);
-    border-radius: 8px;
-    padding: 3px 3px;
-    font-size: 13px;
+    color: rgb(5, 133, 90);
+    border: 1px solid rgb(181, 221, 208);
+    border-radius: 6px;
+    padding: 4px 4px 4px 4px;
+    font-size: 11px;
     background-color: rgb(234, 250, 244);
 }
 .hgi-more-vertical{
